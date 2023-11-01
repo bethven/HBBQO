@@ -1,0 +1,1 @@
+nom, cognoms i NIU
